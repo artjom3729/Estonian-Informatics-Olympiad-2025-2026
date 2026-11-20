@@ -4,7 +4,6 @@ Python files from work on 2025–2026 informatics olympiad problems.
 
 ## Files
 
-- `ahel.py` — a problem I did not solve in given time
 - `kapp.py`
 - `kuju1.py`
 - `kuju2.py`
